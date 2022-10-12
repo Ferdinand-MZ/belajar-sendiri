@@ -1,0 +1,17 @@
+.asw {height: 300px;
+     width: 300px;
+     background-color: coral;
+     margin: 20px auto;
+     padding-left: 20px;
+     padding-right: 10px;
+}
+
+.amadikethu {
+    height: 150px;
+    width: 150px;
+    background-color: aquamarine;
+    margin: 20px auto;
+    padding: 40px 30px 20px 10px;
+    overflow: auto;
+    border: 10px dashed black;
+}
